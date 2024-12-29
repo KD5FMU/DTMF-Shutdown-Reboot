@@ -37,4 +37,16 @@ This one is for the Reboot script file:
 sudo wget https://raw.githubusercontent.com/KD5FMU/DTMF-Shutdown-Reboot/refs/heads/main/reboot.sh
 ```
 
+Once these files are downloaded we need to make them executable. This is done thusly:
+```
+sudo chmod +x shutdown.sh
+```
+
+and for the reboot file:
+```
+sudo chmod +x reboot.sh
+```
+
+
+Once you have all this done I recommend to reboot the server. 
 
