@@ -31,10 +31,12 @@ Now it's always best pratices to download the script files to a location where y
 sudo mkdir /etc/asterisk/local
 ```
 
+
 Then switch your location to that folder with this command:
 ```
 cd /etc/asterisk/local
 ```
+
 
 
 Once this is done you can download the script files with the following wget commands.
@@ -44,15 +46,18 @@ This one is for the Shutdown script file:
 sudo wget https://raw.githubusercontent.com/KD5FMU/DTMF-Shutdown-Reboot/refs/heads/main/shutdown.sh
 ```
 
+
 This one is for the Reboot script file:
 ```
 sudo wget https://raw.githubusercontent.com/KD5FMU/DTMF-Shutdown-Reboot/refs/heads/main/reboot.sh
 ```
 
+
 Once these files are downloaded we need to make them executable. This is done thusly:
 ```
 sudo chmod +x shutdown.sh
 ```
+
 
 and for the reboot file:
 ```
@@ -60,5 +65,23 @@ sudo chmod +x reboot.sh
 ```
 
 
+
 Once you have all this done I recommend to reboot the server. 
+
+Once the server has rebooted go and ahed and give the DTMF commands a try. Now with most Ham Radios its only a matter of pushing in the PTT button while simultaiously pushing the approapriate DTMF keys for the command. In this instance it is as such:
+
+*990 to execute the shutdown script file
+
+and
+
+*991 to execute the reboot script file
+
+Now if you wish you can also bring up your Supermon page and log in to it. Then in the dialog box you can enter the DTMF command including the asterisk symbol (star) and then hit the DTMF button and they will also activate the script file desired. 
+
+I hop you find these files helpful.
+
+73 DE KD5FMU
+
+"Ham On Y'all!!"
+
 
