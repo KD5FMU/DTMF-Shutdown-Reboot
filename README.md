@@ -30,6 +30,7 @@ Now it's always best pratices to download the script files to a location where y
 ```
 sudo mkdir /etc/asterisk/local
 ```
+
 Then switch your location to that folder with this command:
 ```
 cd /etc/asterisk/local
@@ -42,6 +43,7 @@ This one is for the Shutdown script file:
 ```
 sudo wget https://raw.githubusercontent.com/KD5FMU/DTMF-Shutdown-Reboot/refs/heads/main/shutdown.sh
 ```
+
 This one is for the Reboot script file:
 ```
 sudo wget https://raw.githubusercontent.com/KD5FMU/DTMF-Shutdown-Reboot/refs/heads/main/reboot.sh
