@@ -1,4 +1,7 @@
 ![Internet Monitor Logo](https://github.com/KD5FMU/DTMF-Shutdown-Reboot/blob/main/reboot-shutdown2.png)
+<a href="https://buymeacoffee.com/4MvSpi2tTY" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
 
 # DTMF-Shutdown-Reboot
 Have you ever needed to reboot or shutdown your AllStarLink node remotley? Well this is a great method to do these things over RF or from your Supermon Dashboard through DTMF.
