@@ -15,7 +15,7 @@ This one is for the shutdown script
 
 ```
 ; Define the DTMF command that will trigger the shutdown
-990 = cmd,/etc/asterisk/local/shutdown_server.sh
+990 = cmd,/etc/asterisk/local/shutdown.sh
 ```
 
 This one is for the reboot script
@@ -23,7 +23,7 @@ This one is for the reboot script
 
 ```
 ; Define the DTMF command that will trigger the reboot
-991 = cmd,/etc/asterisk/local/reboot_server.sh
+991 = cmd,/etc/asterisk/local/reboot.sh
 ```
 
 Now it's always best pratices to download the script files to a location where you know where they are. Since I am still used to the structure of the HamVoIP Operating System I put all of my script files in the /etc/asterisk/local folder. ASL3 does not have this folder so it needs to be created. You can do this by entereing this command:
