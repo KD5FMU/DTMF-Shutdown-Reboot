@@ -85,6 +85,11 @@ I hop you find these files helpful.
 
 73 DE KD5FMU
 
+<a href="https://buymeacoffee.com/4MvSpi2tTY" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+
 "Ham On Y'all!!"
 
 
