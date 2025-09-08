@@ -3,6 +3,10 @@
 <a href="https://buymeacoffee.com/4MvSpi2tTY" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
 </a>
+### Support me on Patreon ###
+<a href="https://www.patreon.com/c/HamRadioCrusader" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
 
 # DTMF-Shutdown-Reboot
 Have you ever needed to reboot or shutdown your AllStarLink node remotley? Well this is a great method to do these things over RF or from your Supermon Dashboard through DTMF.
