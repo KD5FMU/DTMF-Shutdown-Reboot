@@ -1,4 +1,4 @@
-![Internet Monitor Logo](https://github.com/KD5FMU/DTMF-Shutdown-Reboot/blob/main/reboot-shutdown1.png)
+![Internet Monitor Logo](https://github.com/KD5FMU/DTMF-Shutdown-Reboot/blob/main/reboot-shutdown.png)
 
 # DTMF-Shutdown-Reboot
 This respository contains the directions and script files to install and configure two script files for proper shutdown or a proper reboot of your AllStarLink node.
