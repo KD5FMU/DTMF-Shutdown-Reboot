@@ -1,6 +1,7 @@
 ![Internet Monitor Logo](https://github.com/KD5FMU/DTMF-Shutdown-Reboot/blob/main/reboot-shutdown2.png)
 
 # DTMF-Shutdown-Reboot
+Have you ever needed to reboot or shutdown your AllStarLink node remotley? Well this is a great method to do these things over RF or from your Supermon Dashboard through DTMF.
 This respository contains the directions and script files to install and configure two script files for proper shutdown or a proper reboot of your AllStarLink node.
 
 First things First - Lets create the DTMF command lines in the rpt.conf file
